@@ -1,0 +1,3 @@
+IT WOULD BE SAME AS 3) SVM BUT JUST CHANGE 
+SVM(kernal='rbf')
+and it would be just this
